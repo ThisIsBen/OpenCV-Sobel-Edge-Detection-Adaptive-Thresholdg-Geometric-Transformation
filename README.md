@@ -1,4 +1,4 @@
-# OpenCV C++: Face recognition,SIFT,Optical Flow tracking,Background Subtraction 
+# OpenCV C++: Sobel Edge Detection,Adaptive Thresholdg,Geometric Transformation 
 ## I make use of OpenCV in C++ with Visual studio 2012 to achieve the following image processing:
 ## 1. Basic image processing
   - ### 1.1 讀圖檔      
